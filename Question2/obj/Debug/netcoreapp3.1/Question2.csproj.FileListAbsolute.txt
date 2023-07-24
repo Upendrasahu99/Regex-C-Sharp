@@ -1,0 +1,14 @@
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\bin\Debug\netcoreapp3.1\Question2.exe
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\bin\Debug\netcoreapp3.1\Question2.deps.json
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.json
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.dev.json
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\bin\Debug\netcoreapp3.1\Question2.dll
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\bin\Debug\netcoreapp3.1\Question2.pdb
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\obj\Debug\netcoreapp3.1\Question2.csproj.AssemblyReference.cache
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\obj\Debug\netcoreapp3.1\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfoInputs.cache
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfo.cs
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\obj\Debug\netcoreapp3.1\Question2.csproj.CoreCompileInputs.cache
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\obj\Debug\netcoreapp3.1\Question2.dll
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\obj\Debug\netcoreapp3.1\Question2.pdb
+D:\CS\C#.NET\TopicWiseCode\Regex\Question2\obj\Debug\netcoreapp3.1\Question2.genruntimeconfig.cache
